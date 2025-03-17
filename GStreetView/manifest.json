@@ -1,0 +1,20 @@
+{
+  "name": "GStreetView",
+  "label": "Google Street View",
+  "type": "widget",
+  "version": "1.16.0",
+  "exbVersion": "1.16.0",
+  "author": "Bidemi Adejumo - godofsix@gmail.com",
+  "description": "Open a StreetView for location through URL.",
+  "copyright": "2025",
+  "icon": "icon.svg",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 175,
+    "height": 80
+  }
+}
